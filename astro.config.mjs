@@ -6,4 +6,5 @@ export default defineConfig({});
 
     export default defineConfig({
       site: 'https://destampes.github.io'
+        base: '/Portfolio'
     })
