@@ -5,6 +5,5 @@ export default defineConfig({});
     import { defineConfig } from 'astro/config'
 
     export default defineConfig({
-      site: 'https://destampes.github.io',
-      base: '/my-repo',
+      site: 'https://destampes.github.io'
     })
