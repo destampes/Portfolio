@@ -1,35 +1,29 @@
 ---
-title: Markdown Mystery Tour
+title: 14's Diner
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+img: /assets/logo.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Dans le cadre d'un projet personnel, j'ai décidé de développer un site web dans le fast food pour lequel je travaille.
 tags:
-  - Design
-  - Dev
+  - HTML
+  - CSS
   - User Testing
 ---
 
-## Level-two heading
+Versin 1.0
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+Dans le cadre de mon projet E4, j'ai eu l'opportunité de travailler sur la création d'une page web pour la friterie 14's Diner. Ce projet m'a permis de mettre en pratique mes compétences en développement web, en utilisant les langages HTML, CSS et JavaScript.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+La friterie 14's Diner est une entreprise dynamique et en pleine expansion . Cependant, elle se rendait compte de l'importance de développer sa présence en ligne afin de toucher un public plus large et de faciliter les commandes en ligne.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+L'objectif principal de ce projet était donc de concevoir une 1ere version et de développer une page web attrayante, conviviale et fonctionnelle, permettant aux clients de passer des commandes en ligne et de découvrir les délices proposés par la friterie.
 
-### Level-three heading
+La page web que j'ai développée pour la friterie 14's Diner vise à offrir aux visiteurs une expérience interactive et informative, mettant en valeur les produits et services proposés par l'entreprise.
+J'ai donc utilisé le language html,css,scss et commencer à integrer un peu de javascript 
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+<img src="/assets/scree.jpg">
+<img src="/assets/screen1.png">
+<img src="/assets/screen.png"> 
 
-### Level-three heading
-
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
-
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
-
-#### Level-four heading
-
-- We noted this
-- And also this other point
+https://github.com/destampes/14-s-Diner-v1.0
